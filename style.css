@@ -4,3 +4,9 @@ body,
     color: blanchedalmond;
     font-family: cursive;
 }
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
