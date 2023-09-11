@@ -1,7 +1,6 @@
 body,
 .test{
     color: blanchedalmond;
-    font-family: cursive;
 }
 
 #container{
@@ -14,6 +13,11 @@ body,
     justify-content: center;
     height: 50vh;
     background-color:#1F2937;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 ul{
@@ -57,5 +61,9 @@ a{
 
 .subt1{
     font-size: 18px;
-    
+    color: #e5e7eb;
+}
+
+.hbutton{
+
 }
