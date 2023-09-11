@@ -43,3 +43,19 @@ a{
     height: 50vh;
     background-color: blueviolet;
 }
+
+.Frog{
+    height: 100px;
+    width: 100px;
+}
+
+.text1{
+    font-family: extra-bold;
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.subt1{
+    font-size: 18px;
+    
+}
