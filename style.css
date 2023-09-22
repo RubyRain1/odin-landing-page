@@ -52,8 +52,10 @@ a{
 }
 
 .Frog{
-    height: 100px;
-    width: 300px;
+    height: 300px;
+    width: 500px;
+    flex-shrink: 2;
+    border-radius: 100%;
 }
 
 .text1{
@@ -79,7 +81,16 @@ max-height: 100px;
     gap: 16px;
 }
 
-.middle{
+.middle,
+.imgA{
     display: flex;
     justify-content: center;
+    gap: 100px;
+}
+
+.first,
+.second{
+    gap: 10px;
+    margin: auto;
+    padding: 10px;
 }
