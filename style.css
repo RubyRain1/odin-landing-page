@@ -34,11 +34,13 @@ a{
 
 .first{
     background-color:#1F2937;
+    width: auto;
 }
 
 .second{
     height: 50vh;
     background-color: green;
+    flex-direction: fill;
 }
 
 .third{
@@ -91,6 +93,5 @@ max-height: 100px;
 .first,
 .second{
     gap: 10px;
-    margin: auto;
     padding: 10px;
 }
