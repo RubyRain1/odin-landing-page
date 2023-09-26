@@ -1,6 +1,6 @@
 body,
 .test{
-    color: blanchedalmond;
+    
 }
 
 body{ /* this will take away the white space on the divs */
@@ -42,13 +42,13 @@ a{
 
 .second{
     height: 50vh;
-    background-color: green;
+    background-color: white;
     flex-direction: fill;
 }
 
 .third{
     height: 50vh;
-    background-color: white;
+    background-color: #e5e7eb;
 }
 
 .fourth{
