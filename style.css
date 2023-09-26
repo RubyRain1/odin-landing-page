@@ -3,6 +3,10 @@ body,
     color: blanchedalmond;
 }
 
+body{ /* this will take away the white space on the divs */
+    margin: 0;
+}
+
 #container{
     min-height: 100%;
 }
@@ -34,7 +38,6 @@ a{
 
 .first{
     background-color:#1F2937;
-    width: auto;
 }
 
 .second{
@@ -95,3 +98,4 @@ max-height: 100px;
     gap: 10px;
     padding: 10px;
 }
+
