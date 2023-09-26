@@ -99,12 +99,13 @@ max-height: 100px;
     padding: 10px;
 }
 
-.Frog2, .Frog3,
-.Frog4, .Frog5{
+.Frog2{
+    width: 100px;
+    height: 100px;
+}
+
+.container{
     display: flex;
-    height: 200px;
-    width: 200px;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-direction: column;
+    justify-content: center;
+    gap: 52px;
 }
